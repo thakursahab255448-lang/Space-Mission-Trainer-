@@ -1,0 +1,6 @@
+{
+  "name": "Mars 2077 Academy",
+  "description": "An interactive educational space learning platform for children aged 7-12 featuring solar system exploration, bilingual English/Hindi lessons, text-to-speech, quizzes, space games, and Junior Astronaut certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
